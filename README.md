@@ -13,6 +13,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=k1tty16&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+# Bagdes and Certifications
+<img width="60" height="60" alt="CISCO Network Academy Intro To Cybersecurity" src="https://github.com/user-attachments/assets/775eea5e-2855-4833-8aed-e940d77c1afc" />
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
